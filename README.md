@@ -15,7 +15,7 @@ Universidade Federal do Paraná – UFPR
 
 ## Projetos em ciências de dados
 
-### Usando Python ![Logo Python](https://cdn.iconscout.com/icon/free/png-256/python-14-569257.png  =50x50 )
+### Usando Python 
  - [Análise de agrupamento](https://github.com/Rsimetti/cursoAP2020/blob/master/Semana4_Analise_de_Agrupamento.ipynb)
  Análise do espectro no infravermelho próximo (*NIR*) de misturas de leite com e sem lactose em diferentes proporções.
  - [Regressão](https://github.com/Rsimetti/cursoAP2020/blob/master/Semana05_Regressao_NIR.ipynb)
